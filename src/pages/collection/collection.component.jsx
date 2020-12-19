@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import CollectionsContext from '../../contexts/collections.context';
+import CollectionsContext from '../../contexts/collections/collections.context';
 import CollectionItem from '../../components/collection-item/collection-item.component';
 import './collection.styles.scss';
 
